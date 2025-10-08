@@ -4809,7 +4809,6 @@ def main():  # pragma: no cover
         "jira-get-specific-field": get_specific_fields_command,
         "jira-issue-query": issue_query_command,
         "jira-issue-add-link": add_link_command,
-        # New Commands
         "jira-issue-get-attachment": issue_get_attachment_command,
         "jira-issue-delete-comment": delete_comment_command,
         "jira-issue-edit-comment": edit_comment_command,
